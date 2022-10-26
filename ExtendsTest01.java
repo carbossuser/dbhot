@@ -25,6 +25,7 @@ public class ExtendsTest01{
 }
 //银行账户类
 //账户的属性：账号、余额
+//
 class Account{
 	private String actno;
 	private double balance;
